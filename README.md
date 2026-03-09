@@ -1,1 +1,1572 @@
 # -.-.github.io.
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Achter Fraudhart</title>
+    
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="shortcut icon" href="site/icon.svg" type="image/x-icon">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <h2>Живой персонаж</h2>
+            <nav>
+                <ul>
+                    <li class="active"><a href="#fraud"><strong>Чёрт, Фраудхарт</strong></a></li>
+                     </ul>
+                <h2>Мёртвые персонажи</h2>
+            <nav>
+                <ul>
+                    <li><a href="#zmeelap">Радорм</a></li>
+                    <li><a href="#klod">Клод</a></li>
+                    <li><a href="#liker">Рудольф Фицджеральд</a></li>
+                    <li><a href="#ann">Энн Кэмпбелл</a></li>
+                    <li><a href="#molly">Моллиривель Аделари〚ДУШ〛</a></li>
+                    <li><a href="#klyat">Клятвенный</a></li>
+                    <li><a href="#achter">Ахтер Фраудхарт〚ДУШ〛</a></li>
+                    <li><a href="#walter">Вальтер Шварц〚ДУШ〛</a></li>
+                    <li><a href="#octopus">Спрут〚ДУШ〛</a></li>
+                </ul>
+            </nav>
+        </aside>
+
+        <main class="content">
+
+            <section id="fraud" class="profile-card">
+                <div class="header-section">
+                    <img src="avatar/fraudanim.png" alt="Аватар" class="avatar">
+                    <div>
+                        <h1>ЧЁРТ, ФРАУДХАРТ</h1>
+                        <p class="id-info">1600314</p>
+                    </div>
+                </div>
+                <div class="chain-info">
+                    <p><strong>Цепь имён:</strong> Наёмник - Чёрт, Фраудхарт.</p>
+                </div>
+                <div class="info-grid">
+                    <div>
+                        <h2>Путь</h2>
+                        <p>Шайка разбитого корабля - Племя неразгаданных тайн - <span style="color: #833131"><strong>Санта-Муерте</strong></span>.</p>
+                    </div>
+                    <div>
+                        <h2>Информация</h2>
+                        <p>➢ Варохуд.<br>➢ Глава художников СМ.</p>
+                    </div>
+                </div>
+
+                <div class="profile-header-row">
+                <h2>О персонаже</h2>
+                          <div class="custom-player">
+                               <audio class="audio-element" src="OST/m-fraud.mp3"></audio>
+    
+                            <div class="player-row">
+                                <span class="player-label">OST (тест)</span>
+                            <div class="volume-container">
+                                 <input type="range" class="volume-slider slider-custom" min="0" max="1" step="0.01" value="0.5">
+                            </div>
+                        </div>
+
+                         <div class="controls-row">
+                        <button class="play-btn">
+                            <svg class="icon-play" viewBox="0 0 24 24" width="24" height="24">
+                            <path d="M8 5v14l11-7z" fill="currentColor"/>
+                            </svg>
+                             <svg class="icon-pause" style="display: none;" viewBox="0 0 24 24" width="24" height="24">
+                                 <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" fill="currentColor"/>
+                               </svg>
+                          </button>
+                         <input type="range" class="progress-bar slider-custom" value="0" max="100">
+                        </div>
+                        </div>
+                </div>
+
+                <div class="character-description-block" style="background-image: url('site/bg-fraud.png');">
+                    <div class="description-text">
+                    <p>
+                    Информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация.
+                        <br><br>
+                    Информативная информация информативная информация ну-кааа.
+                    </p>
+                    </div>
+
+                    <div class="description-buttons">
+                        <button class="site-btn btn-ref">РЕФЕРЕНС</button>
+                        <span class="btn-separator">||</span>
+                        <button class="site-btn btn-gal">ГАЛЕРЕЯ</button>
+                    </div>
+                </div>
+                
+                
+                <div class="gallery-container ref-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/reference-fraud.png" class="gallery-thumb">
+                    </div>
+                </div>
+                
+                <div class="gallery-container main-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/g-fraud1.png" class="gallery-thumb">
+                        <img src="gallery/g-fraud2.png" class="gallery-thumb">
+                        <img src="gallery/g-fraud3.png" class="gallery-thumb">
+                        <img src="gallery/g-fraud3.png" class="gallery-thumb">
+                    </div>
+                </div>
+                
+                <div>
+                        <h2>Скины</h2>
+                        <img src="costume/c-fraud.png" height="150px">
+                </div>
+
+                <hr>
+
+                <h2>Медали за жизнь персонажа</h2>
+
+                <div class="medals-container">
+                </div>
+            </section>
+            
+            <section id="molly" class="profile-card" style="--hover-color: #3c5683;"> 
+                <div class="header-section">
+                    <img src="avatar/1355245.png" alt="Аватар" class="avatar">
+                    <div>
+                        <h1>МОЛЛИРИВЕЛЬ АДЕЛАРИ ВАН ВЕЙЛИН</h1>
+                        <p class="id-info">1355245</p>
+                    </div>
+                </div>
+                
+                <div class="chain-info">
+                    <p><strong>Цепь имён:</strong> Энн Рэкхем - Молли Аделари - Люпин - Лукавая Змея</p>
+                </div>
+                <div class="info-grid">
+                    <div>
+                        <h2>Путь</h2>
+                        <p>Шайка разбитого корабля - Арканар - Крылатое племя - Бескрайний север</p>
+                    </div>
+                    <div>
+                        <h2>Информация</h2>
+                        <p>➢ Был помощником предводителя Арканара.<br>➢ Был целителем Крылатого племени.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="profile-header-row">
+                <h2>О персонаже</h2>
+                          <div class="custom-player">
+                               <audio class="audio-element" src="OST/m-molly.mp3"></audio>
+    
+                            <div class="player-row">
+                                <span class="player-label">OST (тест)</span>
+                            <div class="volume-container">
+                                 <input type="range" class="volume-slider slider-custom" min="0" max="1" step="0.01" value="0.5">
+                            </div>
+                        </div>
+
+                         <div class="controls-row">
+                        <button class="play-btn">
+                            <svg class="icon-play" viewBox="0 0 24 24" width="24" height="24">
+                            <path d="M8 5v14l11-7z" fill="#3c5683"/>
+                            </svg>
+                             <svg class="icon-pause" style="display: none;" viewBox="0 0 24 24" width="24" height="24">
+                                 <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" fill="#3c5683"/>
+                               </svg>
+                          </button>
+                         <input type="range" class="progress-bar slider-custom" value="0" max="100">
+                        </div>
+                        </div>
+                </div>
+
+                <div class="character-description-block" style="background-image: url('site/bg-molly.png');">
+                    <div class="description-text">
+                    <p>
+                    Информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация.
+                        <br><br>
+                    Информативная информация информативная информация мобилка очнись.
+                    </p>
+                    </div>
+
+                    <div class="description-buttons">
+                        <button class="site-btn btn-ref">РЕФЕРЕНС</button>
+                        <span class="btn-separator">||</span>
+                        <button class="site-btn btn-gal">ГАЛЕРЕЯ</button>
+                    </div>
+                </div>
+                
+                
+                <div class="gallery-container ref-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/reference-molly.png" class="gallery-thumb">
+                    </div>
+                </div>
+                
+                <div class="gallery-container main-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/g-molly1.png" class="gallery-thumb">
+                        <img src="gallery/g-molly2.png" class="gallery-thumb">
+                        <img src="gallery/g-molly.png" class="gallery-thumb">
+                        <img src="gallery/g-molly3.png" class="gallery-thumb">
+                    </div>
+                </div>
+
+                <div>
+                        <h2>Скины</h2>
+                        <img src="costume/c-1355245.png">
+                        <img src="costume/ccc-1355245.png">
+                        <img src="costume/cc-1355245.png">
+                        <img src="costume/cccc-1355245.png" alt="временная смена скина" title="временная смена скина">
+                        <img src="costume/ccccc-1355245.png" alt="временная смена скина" title="временная смена скина">
+                </div>
+
+                <hr>
+
+                <h2>Медали за жизнь персонажа</h2>
+
+                <div class="medals-container">
+                    <div class="medal-card" data-title="За неоценимую помощь сайту" data-id="169" data-description="За неоценимую помощь сайту.">
+        <img src="medal/169.png" alt="За неоценимую помощь сайту" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="За ужасающе активное прохождение ивента Halloween 2020" data-id="556" data-description="За ужасающе активное прохождение ивента Halloween 2020.">
+        <img src="medal/556.png" alt="За ужасающе активное прохождение ивента Halloween 2020" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Почётному гостю бала, созванного в Ночь Ужаса 2021" data-id="1358" data-description="Почётному гостю бала, созванного в Ночь Ужаса 2021.">
+        <img src="medal/1358.png" alt="Почётному гостю бала, созванного в Ночь Ужаса 2021" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="За сплочённость во время события «Коктейль счастья»" data-id="1520" data-description="За сплочённость во время события «Коктейль счастья».">
+        <img src="medal/1520.png" alt="За сплочённость во время события «Коктейль счастья»" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Самому отзывчивому трудяге «Осенней ярмарки»" data-id="3572" data-description="Самому отзывчивому трудяге «Осенней ярмарки».">
+        <img src="medal/3572.png" alt="Самому отзывчивому трудяге «Осенней ярмарки»" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Лучшему детективу агентства 'Мурка'" data-id="4107" data-description="Лучшему детективу агентства 'Мурка'.">
+        <img src="medal/4107.png" alt="Лучшему детективу агентства 'Мурка'" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Первый контакт" data-id="2607" data-description="Первый контакт.">
+        <img src="medal/2607.png" alt="Первый контакт" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="За активность в сфере Беато" data-id="871" data-description="За активность в сфере Беато.">
+        <img src="medal/871.png" alt="За активность в сфере Беато" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Искусный зверолов" data-id="873" data-description="Искусный зверолов.">
+        <img src="medal/873.png" alt="Искусный зверолов" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Крылья юности" data-id="875" data-description="Крылья юности.">
+        <img src="medal/875.png" alt="Крылья юности" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Юркий нырок" data-id="877" data-description="Юркий нырок.">
+        <img src="medal/877.png" alt="Юркий нырок" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Познавший истину бессмертен" data-id="909" data-description="Познавший истину бессмертен.">
+        <img src="medal/909.png" alt="Познавший истину бессмертен" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Зоркий привратник" data-id="951" data-description="Зоркий привратник.">
+        <img src="medal/951.png" alt="Зоркий привратник" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Труд, о котором сам никогда не забудешь" data-id="1026" data-description="Труд, о котором сам никогда не забудешь.">
+        <img src="medal/1026.png" alt="Труд, о котором сам никогда не забудец" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Пробуждённый лирой" data-id="1027" data-description="Пробуждённый лирой.">
+        <img src="medal/1027.png" alt="Пробуждённый лирой" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Зовущий вперёд" data-id="1028" data-description="Зовущий вперёд.">
+        <img src="medal/1028.png" alt="Зовущий вперёд" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="За финансовую помощь Арканару" data-id="1035" data-description="За финансовую помощь Арканару.">
+        <img src="medal/1035.png" alt="За финансовую помощь Арканару" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Рассекающий водную гладь" data-id="1047" data-description="Рассекающий водную гладь.">
+        <img src="medal/1047.png" alt="Рассекающий водную гладь" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Опытный охотник" data-id="1311" data-description="Опытный охотник.">
+        <img src="medal/1311.png" alt="Опытный охотник" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Проницательный взгляд" data-id="1312" data-description="Проницательный взгляд.">
+        <img src="medal/1312.png" alt="Проницательный взгляд" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Милость царя морей" data-id="2973" data-description="Милость царя морей.">
+        <img src="medal/2973.png" alt="Милость царя морей" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Смышленый малый" data-id="3059" data-description="Смышленый малый.">
+        <img src="medal/3059.png" alt="Смышленый малый" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Отважный малый" data-id="3060" data-description="Отважный малый.">
+        <img src="medal/3060.png" alt="Отважный малый" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Первый запах мороза" data-id="3061" data-description="Первый запах мороза.">
+        <img src="medal/3061.png" alt="Первый запах мороза" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Юный копатель" data-id="3062" data-description="Юный копатель.">
+        <img src="medal/3062.png" alt="Юный копатель" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Начинающий пловец" data-id="3063" data-description="Начинающий пловец.">
+        <img src="medal/3063.png" alt="Начинающий пловец" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Истинный щит" data-id="3064" data-description="Истинный щит.">
+        <img src="medal/3064.png" alt="Истинный щит" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Свежесть вокруг" data-id="3065" data-description="Свежесть вокруг.">
+        <img src="medal/3065.png" alt="Свежесть вокруг" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Покоритель мёрзлой земли" data-id="3066" data-description="Покоритель мёрзлой земли.">
+        <img src="medal/3066.png" alt="Покоритель мёрзлой земли" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Как рыба в воде" data-id="3067" data-description="Как рыба в воде.">
+        <img src="medal/3067.png" alt="Как рыба в воде" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Опытный альпинист" data-id="3068" data-description="Опытный альпинист.">
+        <img src="medal/3068.png" alt="Опытный альпинист" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Символ боевого духа" data-id="3069" data-description="Символ боевого духа.">
+        <img src="medal/3069.png" alt="Символ боевого духа" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Опытный творец" data-id="3071" data-description="Опытный творец.">
+        <img src="medal/3071.png" alt="Опытный творец" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Усердный лягушонок" data-id="3075" data-description="Усердный лягушонок.">
+        <img src="medal/3075.png" alt="Усердный лягушонок" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Ловец света" data-id="3076" data-description="Ловец света.">
+        <img src="medal/3076.png" alt="Ловец света" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Знакомство с домом" data-id="3078" data-description="Знакомство с домом.">
+        <img src="medal/3078.png" alt="Знакомство с домом" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Дитя северных ветров" data-id="3092" data-description="Дитя северных ветров.">
+        <img src="medal/3092.png" alt="Дитя северных ветров" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Хранитель севера" data-id="3093" data-description="Хранитель севера.">
+        <img src="medal/3093.png" alt="Хранитель севера" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Не высоко, малыш?" data-id="3094" data-description="Не высоко, малыш?.">
+        <img src="medal/3094.png" alt="Не высоко, малыш?" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Благословение Вилджер" data-id="3096" data-description="Благословение Вилджер.">
+        <img src="medal/3096.png" alt="Благословение Вилджер" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Благословение Ниа" data-id="3098" data-description="Благословение Ниа.">
+        <img src="medal/3098.png" alt="Благословение Ниа" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="На Ивана, на Купала красна девица гадала" data-id="3218" data-description="На Ивана, на Купала красна девица гадала.">
+        <img src="medal/3218.png" alt="На Ивана, на Купала красна девица гадала" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Душа волка" data-id="3368" data-description="Душа волка.">
+        <img src="medal/3368.png" alt="Душа волка" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Начинающий шпион" data-id="4211" data-description="Начинающий шпион.">
+        <img src="medal/4211.png" alt="Начинающий шпион" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Опытный наблюдатель" data-id="4212" data-description="Опытный наблюдатель.">
+        <img src="medal/4212.png" alt="Опытный наблюдатель" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Получивший благословение Нану" data-id="42" data-description="Получивший благословение Нану.">
+        <img src="medal/42.png" alt="Получивший благословение Нану" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Признанный покровителями" data-id="189" data-description="Признанный покровителями.">
+        <img src="medal/189.png" alt="Признанный покровителями" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Сосчитавший все звёзды на небосводе" data-id="190" data-description="Сосчитавший все звёзды на небосводе.">
+        <img src="medal/190.png" alt="Сосчитавший все звёзды на небосводе" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Всё тайное становится явным" data-id="191" data-description="Всё тайное становится явным.">
+        <img src="medal/191.png" alt="Всё тайное становится явным" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Эти цветы для тебя" data-id="193" data-description="Эти цветы для тебя.">
+        <img src="medal/193.png" alt="Эти цветы для тебя" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="По следам тыкв" data-id="194" data-description="По следам тыкв.">
+        <img src="medal/194.png" alt="По следам тыкв" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Братский дух" data-id="195" data-description="Братский дух.">
+        <img src="medal/195.png" alt="Братский дух" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Любовное послание" data-id="198" data-description="Любовное послание.">
+        <img src="medal/198.png" alt="Любовное послание" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Пасхальная суета" data-id="340" data-description="Пасхальная суета.">
+        <img src="medal/340.png" alt="Пасхальная суета" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Пейзаж осени" data-id="970" data-description="Пейзаж осени.">
+        <img src="medal/970.png" alt="Пейзаж осени" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Сильных духом не сломить" data-id="1262" data-description="Сильных духом не сломить.">
+        <img src="medal/1262.png" alt="Сильных духом не сломить" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Умелый художник" data-id="1263" data-description="Умелый художник.">
+        <img src="medal/1263.png" alt="Умелый художник" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Стремящийся совершенствоваться" data-id="1272" data-description="Стремящийся совершенствоваться.">
+        <img src="medal/1272.png" alt="Стремящийся совершенствоваться" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Лучший следопыт" data-id="1273" data-description="Лучший следопыт.">
+        <img src="medal/1273.png" alt="Лучший следопыт" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Бесстрашный покоритель высот" data-id="1284" data-description="Бесстрашный покоритель высот.">
+        <img src="medal/1284.png" alt="Бесстрашный покоритель высот" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Зоркий глаз" data-id="1291" data-description="Зоркий глаз.">
+        <img src="medal/1291.png" alt="Зоркий глаз" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Опытный пловец" data-id="1292" data-description="Опытный пловец.">
+        <img src="medal/1292.png" alt="Опытный пловец" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Упорный кладоискатель" data-id="1293" data-description="Упорный кладоискатель.">
+        <img src="medal/1293.png" alt="Упорный кладоискатель" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Умелый лекарь" data-id="1294" data-description="Умелый лекарь.">
+        <img src="medal/1294.png" alt="Умелый лекарь" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Пройдя тысячу дорог" data-id="1305" data-description="Пройдя тысячу дорог.">
+        <img src="medal/1305.png" alt="Пройдя тысячу дорог" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Пылающий дух зверолова" data-id="1447" data-description="Пылающий дух зверолова.">
+        <img src="medal/1447.png" alt="Пылающий дух зверолова" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Рождённый побеждать" data-id="1490" data-description="Рождённый побеждать.">
+        <img src="medal/1490.png" alt="Рождённый побеждать" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Прыткий ловец грызунов" data-id="1585" data-description="Прыткий ловец грызунов.">
+        <img src="medal/1585.png" alt="Прыткий ловец грызунов" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Трудолюбивый пижмоносец" data-id="1587" data-description="Трудолюбивый пижмоносец.">
+        <img src="medal/1587.png" alt="Трудолюбивый пижмоносец" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Юный воитель" data-id="1651" data-description="Юный воитель.">
+        <img src="medal/1651.png" alt="Юный воитель" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Первый закон стражей" data-id="1652" data-description="Первый закон стражей.">
+        <img src="medal/1652.png" alt="Первый закон стражей" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Заботливый страж" data-id="1678" data-description="Заботливый страж.">
+        <img src="medal/1678.png" alt="Заботливый страж" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Как рыба в воде" data-id="1749" data-description="Как рыба в воде.">
+        <img src="medal/1749.png" alt="Как рыба в воде" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Проворные лапки" data-id="1756" data-description="Проворные лапки.">
+        <img src="medal/1756.png" alt="Проворные лапки" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Идущие бок о бок" data-id="1759" data-description="Идущие бок о бок.">
+        <img src="medal/1759.png" alt="Идущие бок о бок" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Исследователь неизвестных земель" data-id="1807" data-description="Исследователь неизвестных земель.">
+        <img src="medal/1807.png" alt="Исследователь неизвестных земель" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Великий спонсор" data-id="1816" data-description="Великий спонсор.">
+        <img src="medal/1816.png" alt="Великий спонсор" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Талантливый шут" data-id="1819" data-description="Талантливый шут.">
+        <img src="medal/1819.png" alt="Талантливый шут" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Лапа помощи в совершенствовании" data-id="1877" data-description="Лапа помощи в совершенствовании.">
+        <img src="medal/1877.png" alt="Лапа помощи в совершенствовании" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Смышлёный Птенец" data-id="2144" data-description="Смышлёный Птенец.">
+        <img src="medal/2144.png" alt="Смышлёный Птенец" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Образцовый караульный" data-id="2696" data-description="Образцовый караульный.">
+        <img src="medal/2696.png" alt="Образцовый караульный" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Последователь Нокоу" data-id="2914" data-description="Последователь Нокоу.">
+        <img src="medal/2914.png" alt="Последователь Нокоу" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Последователь Яс" data-id="3102" data-description="Последователь Яс.">
+        <img src="medal/3102.png" alt="Последователь Яс" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Искусный охотник" data-id="3103" data-description="Искусный охотник.">
+        <img src="medal/3103.png" alt="Искусный охотник" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Хранитель звездного неба" data-id="3946" data-description="Хранитель звездного неба.">
+        <img src="medal/3946.png" alt="Хранитель звездного неба" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Ода о последнем вздохе" data-id="3957" data-description="Ода о последнем вздохе.">
+        <img src="medal/3957.png" alt="Ода о последнем вздохе" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Стоп, так у меня же лапки" data-id="3974" data-description="Стоп, так у меня же лапки.">
+        <img src="medal/3974.png" alt="Стоп, так у меня же лапки" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Люби меня с той же страстью, с какой убивал невиновных" data-id="3992" data-description="Люби меня с той же страстью, с какой убивал невиновных.">
+        <img src="medal/3992.png" alt="Люби меня с той же страстью, с какой убивал невиновных" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Нерушимая сила" data-id="570" data-description="Нерушимая сила.">
+        <img src="medal/570.png" alt="Нерушимая сила" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Я как рыба в воде!" data-id="753" data-description="Я как рыба в воде!.">
+        <img src="medal/753.png" alt="Я как рыба в воде!" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Всевидящее око" data-id="1280" data-description="Всевидящее око.">
+        <img src="medal/1280.png" alt="Всевидящее око" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Кажется, я наконец добрался…" data-id="1281" data-description="Кажется, я наконец добрался….">
+        <img src="medal/1281.png" alt="Кажется, я наконец добрался…" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Полные лёгкие свежести" data-id="1641" data-description="Полные лёгкие свежести.">
+        <img src="medal/1641.png" alt="Полные лёгкие свежести" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Открываю мир с лопатой в лапах" data-id="2242" data-description="Открываю мир с лопатой в лапах.">
+        <img src="medal/2242.png" alt="Открываю мир с лопатой в лапах" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Свинка!" data-id="3628" data-description="Свинка!.">
+        <img src="medal/3628.png" alt="Свинка!" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Сказитель Легенд" data-id="1113" data-description="Сказитель Легенд.">
+        <img src="medal/1113.png" alt="Сказитель Легенд" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Зубастый Крепыш" data-id="1114" data-description="Зубастый Крепыш.">
+        <img src="medal/1114.png" alt="Зубастый Крепыш" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Белопёрый Поздравитель" data-id="1115" data-description="Белопёрый Поздравитель.">
+        <img src="medal/1115.png" alt="Белопёрый Поздравитель" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Дарящий Улыбку" data-id="1117" data-description="Дарящий Улыбку.">
+        <img src="medal/1117.png" alt="Дарящий Улыбку" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Чистота и Порядок" data-id="1118" data-description="Чистота и Порядок.">
+        <img src="medal/1118.png" alt="Чистота и Порядок" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Пернатый Крикун" data-id="1119" data-description="Пернатый Крикун.">
+        <img src="medal/1119.png" alt="Пернатый Крикун" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Юный Активист" data-id="1120" data-description="Юный Активист.">
+        <img src="medal/1120.png" alt="Юный Активист" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Юный Непоседа" data-id="1121" data-description="Юный Непоседа.">
+        <img src="medal/1121.png" alt="Юный Непоседа" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Юный Страж" data-id="1122" data-description="Юный Страж.">
+        <img src="medal/1122.png" alt="Юный Страж" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Почёт и Уважение" data-id="1123" data-description="Почёт и Уважение.">
+        <img src="medal/1123.png" alt="Почёт и Уважение" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Гордость Команды" data-id="1124" data-description="Гордость Команды.">
+        <img src="medal/1124.png" alt="Гордость Команды" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Лапа Помощи" data-id="1127" data-description="Лапа Помощи.">
+        <img src="medal/1127.png" alt="Лапа Помощи" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Любимец Доктора" data-id="1128" data-description="Любимец Доктора.">
+        <img src="medal/1128.png" alt="Любимец Доктора" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Мастер Кисти" data-id="1129" data-description="Мастер Кисти.">
+        <img src="medal/1129.png" alt="Мастер Кисти" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Мастер Слова" data-id="1130" data-description="Мастер Слова.">
+        <img src="medal/1130.png" alt="Мастер Слова" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Острые Когти" data-id="1131" data-description="Острые Когти.">
+        <img src="medal/1131.png" alt="Острые Когти" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Покоритель Вершин" data-id="1133" data-description="Покоритель Вершин.">
+        <img src="medal/1133.png" alt="Покоритель Вершин" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Паучьи Сети" data-id="1134" data-description="Паучьи Сети.">
+        <img src="medal/1134.png" alt="Паучьи Сети" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Покоритель Волн" data-id="1136" data-description="Покоритель Волн.">
+        <img src="medal/1136.png" alt="Покоритель Волн" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Спокойные Берега" data-id="1137" data-description="Спокойные Берега.">
+        <img src="medal/1137.png" alt="Спокойные Берега" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Верный Напарник" data-id="1143" data-description="Верный Напарник.">
+        <img src="medal/1143.png" alt="Верный Напарник" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Непревзойдённый Активист" data-id="1432" data-description="Непревзойдённый Активист.">
+        <img src="medal/1432.png" alt="Непревзойдённый Активист" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Покоривший Море" data-id="1433" data-description="Покоривший Море.">
+        <img src="medal/1433.png" alt="Покоривший Море" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Неповторимый Непоседа" data-id="1437" data-description="Неповторимый Непоседа.">
+        <img src="medal/1437.png" alt="Неповторимый Непоседа" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Превосходный Страж" data-id="1438" data-description="Превосходный Страж.">
+        <img src="medal/1438.png" alt="Превосходный Страж" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Покоривший Солёные Скалы" data-id="1440" data-description="Покоривший Солёные Скалы.">
+        <img src="medal/1440.png" alt="Покоривший Солёные Скалы" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Ловкий Собиратель" data-id="1442" data-description="Ловкий Собиратель.">
+        <img src="medal/1442.png" alt="Ловкий Собиратель" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="«А люди любят!»" data-id="1516" data-description="«А люди любят!».">
+        <img src="medal/1516.png" alt="«А люди любят!»" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="«Теперь мой факел видно хорошо»" data-id="1517" data-description="«Теперь мой факел видно хорошо».">
+        <img src="medal/1517.png" alt="«Теперь мой факел видно хорошо»" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Археолог-Любитель" data-id="1658" data-description="Археолог-Любитель.">
+        <img src="medal/1658.png" alt="Археолог-Любитель" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Собачий Нюх" data-id="1659" data-description="Собачий Нюх.">
+        <img src="medal/1659.png" alt="Собачий Нюх" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Проворный Зверолов" data-id="1695" data-description="Проворный Зверолов.">
+        <img src="medal/1695.png" alt="Проворный Зверолов" class="medal-icon">
+    </div>
+
+    <div class="medal-card" data-title="Прошедший Тысячи Троп" data-id="1696" data-description="Прошедший Тысячи Троп.">
+        <img src="medal/1696.png" alt="Прошедший Тысячи Троп" class="medal-icon">
+    </div>
+                </div>
+            </section>
+            
+            <section id="walter" class="profile-card">
+                <div class="header-section">
+                    <img src="avatar/1272844.png" alt="Аватар" class="avatar">
+                    <div>
+                        <h1>ВАЛЬТЕР ШВАРЦ</h1>
+                        <p class="id-info">1272844</p>
+                    </div>
+                </div>
+                <div class="chain-info">
+                    <p><strong>Цепь имён:</strong> Проказнушек - Проказник.</p>
+                </div>
+                <div class="info-grid">
+                    <div>
+                        <h2>Путь</h2>
+                        <p>Племя теней.</p>
+                    </div>
+                    <div>
+                        <h2>Информация</h2>
+                        <p>➢ ...</p>
+                    </div>
+                </div>
+
+                <div class="profile-header-row">
+                <h2>О персонаже</h2>
+                          <div class="custom-player">
+                               <audio class="audio-element" src="OST/m-walter.mp3"></audio>
+    
+                            <div class="player-row">
+                                <span class="player-label">OST (тест)</span>
+                            <div class="volume-container">
+                                 <input type="range" class="volume-slider slider-custom" min="0" max="1" step="0.01" value="0.5">
+                            </div>
+                        </div>
+
+                         <div class="controls-row">
+                        <button class="play-btn">
+                            <svg class="icon-play" viewBox="0 0 24 24" width="24" height="24">
+                            <path d="M8 5v14l11-7z" fill="currentColor"/>
+                            </svg>
+                             <svg class="icon-pause" style="display: none;" viewBox="0 0 24 24" width="24" height="24">
+                                 <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" fill="currentColor"/>
+                               </svg>
+                          </button>
+                         <input type="range" class="progress-bar slider-custom" value="0" max="100">
+                        </div>
+                        </div>
+                </div>
+
+                <div class="character-description-block" style="background-image: url('site/bg-fraud.png');">
+                    <div class="description-text">
+                    <p>
+                    Информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация.
+                        <br><br>
+                    Информативная информация информативная информация информативная информация.
+                    </p>
+                    </div>
+
+                    <div class="description-buttons">
+                        <button class="site-btn btn-ref">РЕФЕРЕНС</button>
+                        <span class="btn-separator">||</span>
+                        <button class="site-btn btn-gal">ГАЛЕРЕЯ</button>
+                    </div>
+                </div>
+                
+                
+                <div class="gallery-container ref-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/reference-walter.png" class="gallery-thumb">
+                    </div>
+                </div>
+                
+                <div class="gallery-container main-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/g-walter1.png" class="gallery-thumb">
+                        <img src="gallery/g-walter2.png" class="gallery-thumb">
+                        <img src="gallery/g-walter3.png" class="gallery-thumb">
+                        <img src="gallery/g-walter3.png" class="gallery-thumb">
+                    </div>
+                </div>
+
+                <div>
+                        <h2>Скины</h2>
+                        <img src="costume/c-1272844.png">
+                        <img src="costume/cc-1272844.png">
+                        <img src="costume/ccc-1272844.png">
+                </div>
+
+                <hr>
+
+                <h2>Медали за жизнь персонажа</h2>
+
+                <div class="medals-container">
+                    <div class="medal-card" data-title="За активные тренировки" data-id="29" data-description="За активные тренировки.">
+        <img src="medal/29.png" alt="За активные тренировки." class="medal-icon">
+                    </div>
+                </div>
+            </section>
+
+            <section id="achter" class="profile-card">
+                <div class="header-section">
+                    <img src="avatar/1190298.png" alt="Аватар" class="avatar">
+                    <div>
+                        <h1>АХТЕР ФРАУДХАРТ</h1>
+                        <p class="id-info">1190298</p>
+                    </div>
+                </div>
+                <div class="chain-info">
+                    <p><strong>Цепь имён:</strong> Чёрт побери, Фраудхарт - Курс.</p>
+                </div>
+                <div class="info-grid">
+                    <div>
+                        <h2>Путь</h2>
+                        <p>Шайка разбитого корабля - Бескрайний север - Крылатое племя - Обитель змея хранителя.</p>
+                    </div>
+                    <div>
+                        <h2>Информация</h2>
+                        <p>➢ ...</p>
+                    </div>
+                </div>
+
+                <div class="profile-header-row">
+                <h2>О персонаже</h2>
+                          <div class="custom-player">
+                               <audio class="audio-element" src="OST/m-fraud.mp3"></audio>
+    
+                            <div class="player-row">
+                                <span class="player-label">OST (тест)</span>
+                            <div class="volume-container">
+                                 <input type="range" class="volume-slider slider-custom" min="0" max="1" step="0.01" value="0.5">
+                            </div>
+                        </div>
+
+                         <div class="controls-row">
+                        <button class="play-btn">
+                            <svg class="icon-play" viewBox="0 0 24 24" width="24" height="24">
+                            <path d="M8 5v14l11-7z" fill="currentColor"/>
+                            </svg>
+                             <svg class="icon-pause" style="display: none;" viewBox="0 0 24 24" width="24" height="24">
+                                 <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" fill="currentColor"/>
+                               </svg>
+                          </button>
+                         <input type="range" class="progress-bar slider-custom" value="0" max="100">
+                        </div>
+                        </div>
+                </div>
+
+                <div class="character-description-block" style="background-image: url('site/bg-fraud.png');">
+                    <div class="description-text">
+                    <p>
+                    Информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация.
+                        <br><br>
+                    Информативная информация информативная информация информативная информация.
+                    </p>
+                    </div>
+
+                    <div class="description-buttons">
+                        <button class="site-btn btn-ref">РЕФЕРЕНС</button>
+                        <span class="btn-separator">||</span>
+                        <button class="site-btn btn-gal">ГАЛЕРЕЯ</button>
+                    </div>
+                </div>
+                
+                
+                <div class="gallery-container ref-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/reference-fraud.png" class="gallery-thumb">
+                    </div>
+                </div>
+                
+                <div class="gallery-container main-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/g-fraud1.png" class="gallery-thumb">
+                        <img src="gallery/g-fraud2.png" class="gallery-thumb">
+                        <img src="gallery/g-fraud3.png" class="gallery-thumb">
+                        <img src="gallery/g-fraud3.png" class="gallery-thumb">
+                    </div>
+                </div>
+
+                <div>
+                        <h2>Скины</h2>
+                        <img src="costume/с-1190298.png">
+                </div>
+                
+                <hr>
+
+                <h2>Медали за жизнь персонажа</h2>
+
+                <div class="medals-container">
+                    <div class="medal-card" data-title="Смышленый малый" data-id="3059" data-description="Смышленый малый.">
+                         <img src="medal/3059.png" alt="Смышленый малый" class="medal-icon">
+                    </div>
+                    <div class="medal-card" data-title="Отважный малый" data-id="3060" data-description="Отважный малый.">
+                         <img src="medal/3060.png" alt="Отважный малый" class="medal-icon">
+                    </div>
+                    <div class="medal-card" data-title="Первый запах мороза" data-id="3061" data-description="Первый запах мороза.">
+                         <img src="medal/3061.png" alt="Первый запах мороза" class="medal-icon">
+                    </div>
+                    <div class="medal-card" data-title="Юный копатель" data-id="3062" data-description="Юный копатель.">
+                         <img src="medal/3062.png" alt="Юный копатель" class="medal-icon">
+                    </div>
+                    <div class="medal-card" data-title="Начинающий пловец" data-id="3063" data-description="Начинающий пловец.">
+                         <img src="medal/3063.png" alt="Начинающий пловец" class="medal-icon">
+                    </div>
+                    <div class="medal-card" data-title="Свежесть вокруг" data-id="3065" data-description="Свежесть вокруг.">
+                         <img src="medal/3065.png" alt="Свежесть вокруг" class="medal-icon">
+                    </div>
+                    <div class="medal-card" data-title="Как рыба в воде" data-id="3067" data-description="Как рыба в воде.">
+                         <img src="medal/3067.png" alt="Как рыба в воде" class="medal-icon">
+                    </div>
+                    <div class="medal-card" data-title="Опытный альпинист" data-id="3068" data-description="Опытный альпинист.">
+                         <img src="medal/3068.png" alt="Опытный альпинист" class="medal-icon">
+                    </div>
+                    <div class="medal-card" data-title="Не высоко, малыш?" data-id="3094" data-description="Не высоко, малыш?.">
+                         <img src="medal/3094.png" alt="Не высоко, малыш?" class="medal-icon">
+                    </div>
+                    <div class="medal-card" data-title="Начинающий шпион" data-id="4211" data-description="Начинающий шпион.">
+                         <img src="medal/4211.png" alt="Начинающий шпион" class="medal-icon">
+                    </div>
+                    <div class="medal-card" data-title="Опытный наблюдатель" data-id="4212" data-description="Опытный наблюдатель.">
+                         <img src="medal/4212.png" alt="Опытный наблюдатель" class="medal-icon">
+                    </div>
+                    
+                </div>
+            </section>
+
+            <section id="octopus" class="profile-card">
+                <div class="header-section">
+                    <img src="avatar/1639753.png" alt="Аватар" class="avatar">
+                    <div>
+                        <h1>СПРУТ</h1>
+                        <p class="id-info">1639753</p>
+                    </div>
+                </div>
+                <div class="chain-info">
+                    <p><strong>Цепь имён:</strong> Капитан Хорнет - Спрут.</p>
+                </div>
+                <div class="info-grid">
+                    <div>
+                        <h2>Путь</h2>
+                        <p>Шайка разбитого корабля.</p>
+                    </div>
+                    <div>
+                        <h2>Информация</h2>
+                        <p>➢ ...</p>
+                    </div>
+                </div>
+
+                <div class="profile-header-row">
+                <h2>О персонаже</h2>
+                          <div class="custom-player">
+                               <audio class="audio-element" src="OST/m-octopus.mp3"></audio>
+    
+                            <div class="player-row">
+                                <span class="player-label">OST (тест)</span>
+                            <div class="volume-container">
+                                 <input type="range" class="volume-slider slider-custom" min="0" max="1" step="0.01" value="0.5">
+                            </div>
+                        </div>
+
+                         <div class="controls-row">
+                        <button class="play-btn">
+                            <svg class="icon-play" viewBox="0 0 24 24" width="24" height="24">
+                            <path d="M8 5v14l11-7z" fill="currentColor"/>
+                            </svg>
+                             <svg class="icon-pause" style="display: none;" viewBox="0 0 24 24" width="24" height="24">
+                                 <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" fill="currentColor"/>
+                               </svg>
+                          </button>
+                         <input type="range" class="progress-bar slider-custom" value="0" max="100">
+                        </div>
+                        </div>
+                </div>
+
+                <div class="character-description-block" style="background-image: url('site/bg-fraud.png');">
+                    <div class="description-text">
+                    <p>
+                    Информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация.
+                        <br><br>
+                    Информативная информация информативная информация информативная информация.
+                    </p>
+                    </div>
+
+                    <div class="description-buttons">
+                        <button class="site-btn btn-ref">РЕФЕРЕНС</button>
+                        <span class="btn-separator">||</span>
+                        <button class="site-btn btn-gal">ГАЛЕРЕЯ</button>
+                    </div>
+                </div>
+                
+                
+                <div class="gallery-container ref-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/reference-octopus.png" class="gallery-thumb">
+                    </div>
+                </div>
+                
+                <div class="gallery-container main-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/g-octopus1.png" class="gallery-thumb">
+                        <img src="gallery/g-octopus2.png" class="gallery-thumb">
+                        <img src="gallery/g-octopus3.png" class="gallery-thumb">
+                        <img src="gallery/g-octopus3.png" class="gallery-thumb">
+                    </div>
+                </div>
+
+                <div>
+                        <h2>Скины</h2>
+                        <img src="costume/c-1639753.png">
+                </div>
+
+                <hr>
+
+                <h2>Медали за жизнь персонажа</h2>
+
+                <div class="medals-container">
+                </div>
+            </section>
+
+            <section id="zmeelap" class="profile-card">
+                <div class="header-section">
+                    <img src="avatar/zmeelap.png" alt="Аватар" class="avatar">
+                    <div>
+                        <h1>РАДОРМ</h1>
+                        <p class="id-info">1190298</p>
+                    </div>
+                </div>
+                <div class="chain-info">
+                    <p><strong>Цепь имён:</strong> Змееусик - Змеелап - Радорм.</p>
+                </div>
+                <div class="info-grid">
+                    <div>
+                        <h2>Путь</h2>
+                        <p>Морское племя.</p>
+                    </div>
+                    <div>
+                        <h2>Информация</h2>
+                        <p>➢ ...</p>
+                    </div>
+                </div>
+
+
+
+                 <div class="profile-header-row">
+                  <h2>О персонаже</h2>
+                          <div class="custom-player">
+                               <audio class="audio-element" src="OST/m-zmeelap.mp3"></audio>
+    
+                            <div class="player-row">
+                                <span class="player-label">OST (тест)</span>
+                            <div class="volume-container">
+                                 <input type="range" class="volume-slider slider-custom" min="0" max="1" step="0.01" value="0.5">
+                            </div>
+                        </div>
+
+                         <div class="controls-row">
+                        <button class="play-btn">
+                            <svg class="icon-play" viewBox="0 0 24 24" width="24" height="24">
+                            <path d="M8 5v14l11-7z" fill="currentColor"/>
+                            </svg>
+                             <svg class="icon-pause" style="display: none;" viewBox="0 0 24 24" width="24" height="24">
+                                 <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" fill="currentColor"/>
+                               </svg>
+                          </button>
+                         <input type="range" class="progress-bar slider-custom" value="0" max="100">
+                        </div>
+                        </div>
+                </div>
+
+                <div class="character-description-block" style="background-image: url('site/bg-zmeelap.png');">
+                    <div class="description-text">
+                    <p>
+                    Информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация.
+                        <br><br>
+                    Информативная информация информативная информация информативная информация.
+                    </p>
+                    </div>
+
+                    <div class="description-buttons">
+                        <button class="site-btn btn-ref">РЕФЕРЕНС</button>
+                        <span class="btn-separator">||</span>
+                        <button class="site-btn btn-gal">ГАЛЕРЕЯ</button>
+                    </div>
+                </div>
+
+                <div class="gallery-container ref-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/reference-zmeelap.png" class="gallery-thumb">
+                    </div>
+                </div>
+                
+                <div class="gallery-container main-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/g-zmeelap1.png" class="gallery-thumb">
+                        <img src="gallery/g-zmeelap2.png" class="gallery-thumb">
+                        <img src="gallery/g-zmeelap3.png" class="gallery-thumb">
+                        <img src="gallery/g-zmeelap5.png" class="gallery-thumb">
+                        <img src="gallery/g-zmeelap6.png" class="gallery-thumb">
+                        <img src="gallery/g-zmeelap7.png" class="gallery-thumb">
+                    </div>
+                </div>
+
+
+
+                
+
+                <div>
+                        <h2>Скины</h2>
+                        <img src="costume/c-zmeelap.png" alt="до изменения окраса" title="до изменения окраса">
+                        <img src="costume/cc-zmeelap.png">
+                </div>
+
+                <hr>
+
+                <h2>Медали за жизнь персонажа</h2>
+
+                <div class="medals-container">
+                </div>
+            </section>
+
+
+            <section id="klod" class="profile-card">
+                <div class="header-section">
+                    <img src="avatar/klod.png" alt="Аватар" class="avatar">
+                    <div>
+                        <h1>КЛОД</h1>
+                        <p class="id-info">1190298</p>
+                    </div>
+                </div>
+                <div class="chain-info">
+                    <p><strong>Цепь имён:</strong> -</p>
+                </div>
+                <div class="info-grid">
+                    <div>
+                        <h2>Путь</h2>
+                        <p>Шайка разбитого корабля.</p>
+                    </div>
+                    <div>
+                        <h2>Информация</h2>
+                        <p>➢ ...</p>
+                    </div>
+                </div>
+
+                <div class="profile-header-row">
+                <h2>О персонаже</h2>
+                          <div class="custom-player">
+                               <audio class="audio-element" src="OST/m-klod.mp3"></audio>
+    
+                            <div class="player-row">
+                                <span class="player-label">OST (тест)</span>
+                            <div class="volume-container">
+                                 <input type="range" class="volume-slider slider-custom" min="0" max="1" step="0.01" value="0.5">
+                            </div>
+                        </div>
+
+                         <div class="controls-row">
+                        <button class="play-btn">
+                            <svg class="icon-play" viewBox="0 0 24 24" width="24" height="24">
+                            <path d="M8 5v14l11-7z" fill="currentColor"/>
+                            </svg>
+                             <svg class="icon-pause" style="display: none;" viewBox="0 0 24 24" width="24" height="24">
+                                 <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" fill="currentColor"/>
+                               </svg>
+                          </button>
+                         <input type="range" class="progress-bar slider-custom" value="0" max="100">
+                        </div>
+                        </div>
+                </div>
+
+                <div class="character-description-block" style="background-image: url('site/bg-klod.png');">
+                    <div class="description-text">
+                    <p>
+                    Информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация.
+                        <br><br>
+                    Информативная информация информативная информация информативная информация.
+                    </p>
+                    </div>
+
+                    <div class="description-buttons">
+                        <button class="site-btn btn-ref">РЕФЕРЕНС</button>
+                        <span class="btn-separator">||</span>
+                        <button class="site-btn btn-gal">ГАЛЕРЕЯ</button>
+                    </div>
+                </div>
+                
+                
+                <div class="gallery-container ref-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/reference-klod.png" class="gallery-thumb">
+                    </div>
+                </div>
+                
+                <div class="gallery-container main-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/g-klod1.png" class="gallery-thumb">
+                        <img src="gallery/g-klod2.png" class="gallery-thumb">
+                        <img src="gallery/g-klod3.png" class="gallery-thumb">
+                        <img src="gallery/g-klod3.png" class="gallery-thumb">
+                    </div>
+                </div>
+
+                <div>
+                        <h2>Скины</h2>
+                        <img src="costume/c-klod.png">
+                </div>
+
+                <hr>
+
+                <h2>Медали за жизнь персонажа</h2>
+
+                <div class="medals-container">
+                </div>
+            </section>
+
+            <section id="liker" class="profile-card">
+                <div class="header-section">
+                    <img src="avatar/liker.png" alt="Аватар" class="avatar">
+                    <div>
+                        <h1>РУДОЛЬФ ФИЦДЖЕРАЛЬД</h1>
+                        <p class="id-info">1272844</p>
+                    </div>
+                </div>
+                <div class="chain-info">
+                    <p><strong>Цепь имён:</strong> Рудольф Кид - Ликёрный - Амелия Фицджеральд.</p>
+                </div>
+                <div class="info-grid">
+                    <div>
+                        <h2>Путь</h2>
+                        <p>Шайка разбитого корабля - Город дикого запада.</p>
+                    </div>
+                    <div>
+                        <h2>Информация</h2>
+                        <p>➢ Основатель фракции "Город дикого запада"</p>
+                    </div>
+                </div>
+
+                <div class="profile-header-row">
+                <h2>О персонаже</h2>
+                          <div class="custom-player">
+                               <audio class="audio-element" src="OST/m-liker.mp3"></audio>
+    
+                            <div class="player-row">
+                                <span class="player-label">OST (тест)</span>
+                            <div class="volume-container">
+                                 <input type="range" class="volume-slider slider-custom" min="0" max="1" step="0.01" value="0.5">
+                            </div>
+                        </div>
+
+                         <div class="controls-row">
+                        <button class="play-btn">
+                            <svg class="icon-play" viewBox="0 0 24 24" width="24" height="24">
+                            <path d="M8 5v14l11-7z" fill="currentColor"/>
+                            </svg>
+                             <svg class="icon-pause" style="display: none;" viewBox="0 0 24 24" width="24" height="24">
+                                 <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" fill="currentColor"/>
+                               </svg>
+                          </button>
+                         <input type="range" class="progress-bar slider-custom" value="0" max="100">
+                        </div>
+                        </div>
+                </div>
+
+                <div class="character-description-block" style="background-image: url('site/bg-fraud.png');">
+                    <div class="description-text">
+                    <p>
+                    Информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация.
+                        <br><br>
+                    Информативная информация информативная информация информативная информация.
+                    </p>
+                    </div>
+
+                    <div class="description-buttons">
+                        <button class="site-btn btn-ref">РЕФЕРЕНС</button>
+                        <span class="btn-separator">||</span>
+                        <button class="site-btn btn-gal">ГАЛЕРЕЯ</button>
+                    </div>
+                </div>
+                
+                
+                <div class="gallery-container ref-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/reference-liker.png" class="gallery-thumb">
+                    </div>
+                </div>
+                
+                <div class="gallery-container main-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/g-liker1.png" class="gallery-thumb">
+                        <img src="gallery/g-liker2.png" class="gallery-thumb">
+                        <img src="gallery/g-liker3.png" class="gallery-thumb">
+                        <img src="gallery/g-liker3.png" class="gallery-thumb">
+                    </div>
+                </div>
+
+                <div>
+                        <h2>Скины</h2>
+                        <img src="costume/c-liker.png">
+                </div>
+
+                <hr>
+
+                <h2>Медали за жизнь персонажа</h2>
+
+                <div class="medals-container">
+                </div>
+            </section>
+
+            <section id="ann" class="profile-card">
+                <div class="header-section">
+                    <img src="avatar/ann.png" alt="Аватар" class="avatar">
+                    <div>
+                        <h1>ЭНН КЭМПБЕЛЛ</h1>
+                        <p class="id-info">1355245</p>
+                    </div>
+                </div>
+                <div class="chain-info">
+                    <p><strong>Цепь имён:</strong> Тыквенная Запеканка - Энн Рэкхем - Смышлёная Малявка.</p>
+                </div>
+                <div class="info-grid">
+                    <div>
+                        <h2>Путь</h2>
+                        <p>Шайка разбитого корабля.</p>
+                    </div>
+                    <div>
+                        <h2>Информация</h2>
+                        <p>➢ Была предводителем Шайки разбитого корабля.<br>➢ Молли Аделари до изменения окраса.</p>
+                    </div>
+                </div>
+
+                <div class="profile-header-row">
+                <h2>О персонаже</h2>
+                          <div class="custom-player">
+                               <audio class="audio-element" src="OST/m-ann.mp3"></audio>
+    
+                            <div class="player-row">
+                                <span class="player-label">OST (тест)</span>
+                            <div class="volume-container">
+                                 <input type="range" class="volume-slider slider-custom" min="0" max="1" step="0.01" value="0.5">
+                            </div>
+                        </div>
+
+                         <div class="controls-row">
+                        <button class="play-btn">
+                            <svg class="icon-play" viewBox="0 0 24 24" width="24" height="24">
+                            <path d="M8 5v14l11-7z" fill="currentColor"/>
+                            </svg>
+                             <svg class="icon-pause" style="display: none;" viewBox="0 0 24 24" width="24" height="24">
+                                 <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" fill="currentColor"/>
+                               </svg>
+                          </button>
+                         <input type="range" class="progress-bar slider-custom" value="0" max="100">
+                        </div>
+                        </div>
+                </div>
+
+                <div class="character-description-block" style="background-image: url('site/bg-fraud.png');">
+                    <div class="description-text">
+                    <p>
+                    Информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация информативная информация.
+                        <br><br>
+                    Информативная информация информативная информация информативная информация.
+                    </p>
+                    </div>
+
+                    <div class="description-buttons">
+                        <button class="site-btn btn-ref">РЕФЕРЕНС</button>
+                        <span class="btn-separator">||</span>
+                        <button class="site-btn btn-gal">ГАЛЕРЕЯ</button>
+                    </div>
+                </div>
+                
+                
+                <div class="gallery-container ref-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/reference-ann.png" class="gallery-thumb">
+                    </div>
+                </div>
+                
+                <div class="gallery-container main-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/g-ann1.png" class="gallery-thumb">
+                        <img src="gallery/g-ann2.png" class="gallery-thumb">
+                        <img src="gallery/g-ann3.png" class="gallery-thumb">
+                        <img src="gallery/g-ann3.png" class="gallery-thumb">
+                    </div>
+                </div>
+
+                <div>
+                        <h2>Скины</h2>
+                        <img src="costume/c-ann.png">
+                        <img src="costume/cc-ann.png">
+                        <img src="costume/ccc-ann.png">
+                        <img src="costume/cccc-ann.png">
+                        <img src="costume/ccccc-ann.png">
+                        <img src="costume/cccccc-ann.png">
+                </div>
+
+                <hr>
+
+                <h2>Медали за жизнь персонажа</h2>
+
+                <div class="medals-container">
+                </div>
+            </section>
+
+            <section id="klyat" class="profile-card">
+                <div class="header-section">
+                    <img src="avatar/klyat.png" alt="Аватар" class="avatar">
+                    <div>
+                        <h1>КЛЯТВЕННЫЙ</h1>
+                        <p class="id-info">1600314</p>
+                    </div>
+                </div>
+                <div class="chain-info">
+                    <p><strong>Цепь имён:</strong> Клятвушек - Связанный Клятвой - Клятвенный.</p>
+                </div>
+                <div class="info-grid">
+                    <div>
+                        <h2>Путь</h2>
+                        <p>Северный клан.</p>
+                    </div>
+                    <div>
+                        <h2>Информация</h2>
+                        <p>➢ ...</p>
+                    </div>
+                </div>
+
+                <div class="profile-header-row">
+                <h2>О персонаже</h2>
+                          <div class="custom-player">
+                               <audio class="audio-element" src="OST/m-klyat.mp3"></audio>
+    
+                            <div class="player-row">
+                                <span class="player-label">OST (тест)</span>
+                            <div class="volume-container">
+                                 <input type="range" class="volume-slider slider-custom" min="0" max="1" step="0.01" value="0.5">
+                            </div>
+                        </div>
+
+                         <div class="controls-row">
+                        <button class="play-btn">
+                            <svg class="icon-play" viewBox="0 0 24 24" width="24" height="24">
+                            <path d="M8 5v14l11-7z" fill="currentColor"/>
+                            </svg>
+                             <svg class="icon-pause" style="display: none;" viewBox="0 0 24 24" width="24" height="24">
+                                 <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" fill="currentColor"/>
+                               </svg>
+                          </button>
+                         <input type="range" class="progress-bar slider-custom" value="0" max="100">
+                        </div>
+                        </div>
+                </div>
+
+                <div class="character-description-block" style="background-image: url('site/bg-fraud.png');">
+                    <div class="description-text">
+                    <p><center><a href="https://achterstem.github.io/host/img/sk.png" target="_blank">Ворон || Острый ум || ᚲᚺᛟᛁᚲᛖ</a></center>
+                        <center><a href="https://shternie.pixieset.com/fraudhart/7c818e5e90/" target="_blank">ГАЛЕРЕЯ</a> | <a href="https://docs.google.com/document/d/1IgHOY8Z65psJZ0WJULKvFuW4qXv0q8aGBaLtg0UZn9Y/edit?usp=sharing" target="_blank">ЛОР-ДОК</a> | <a href="https://www.youtube.com/watch?v=JhiUacGzIg8&list=PLQg8ZXr4uJZ5QDaHcWk1VK4sjVyxzime0" target="_blank">МУЗЫКАЛЬНАЯ ТЕМА</a></center>
+                    <br><br><br><br><br><br></p>
+                    </div>
+
+                    <div class="description-buttons">
+                        <button class="site-btn btn-ref">РЕФЕРЕНС</button>
+                        <span class="btn-separator">||</span>
+                        <button class="site-btn btn-gal">ГАЛЕРЕЯ</button>
+                    </div>
+                </div>
+                
+                
+                <div class="gallery-container ref-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/reference-klyat.png" class="gallery-thumb">
+                    </div>
+                </div>
+                
+                <div class="gallery-container main-gallery" style="display: none;">
+                    <div class="gallery-grid">
+                        <img src="gallery/g-klyat1.png" class="gallery-thumb">
+                        <img src="gallery/g-klyat2.png" class="gallery-thumb">
+                        <img src="gallery/g-klyat3.png" class="gallery-thumb">
+                        <img src="gallery/g-klyat3.png" class="gallery-thumb">
+                    </div>
+                </div>
+
+                <div>
+                        <h2>Скины</h2>
+                        <img src="costume/c-klyat.png">
+                        <img src="costume/cc-klyat.png">
+                        <img src="costume/cccccc-klyat.png">
+                        <img src="costume/ccc-klyat.png">
+                        <img src="costume/cccc-klyat.png">
+                        <img src="costume/ccccc-klyat.png">
+                </div>
+
+                <hr>
+
+                <h2>Медали за жизнь персонажа</h2>
+
+                <div class="medals-container">
+                    <div class="medal-card" data-title="Златом и серебром" data-id="4331" data-description="Златом и серебром.">
+                         <img src="medal/4331.png" alt="Златом и серебром" class="medal-icon">
+                    </div>
+                </div>
+            </section>
+
+            <div class="footer-credits">
+        CHARACTERS OWNER <a href="https://vk.com/l_corsair_l" target="_blank">ACHTERSTEM</a> // <a href="https://catwar.su/cat1600314" target="_blank">1600314</a>
+            </div>
+            
+        </main>
+    </div>
+
+<div id="imageModal" class="image-viewer-modal">
+    <span class="close-viewer">&times;</span>
+    <img class="modal-image-content" id="fullScreenImage">
+</div>
+    
+    <div id="medalModal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <h2 id="modalTitle"></h2>
+            <p><strong>ID:</strong> <span id="modalId"></span></p>
+            <p><strong>Описание:</strong> <span id="modalDescription"></span></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
